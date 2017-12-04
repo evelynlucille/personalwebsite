@@ -153,7 +153,8 @@ fieldset[disabled] .btn-xl.active {
 }
 .navbar-default .navbar-brand {
   color: #81d2d5;
-  font-family: "Dancing Script", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-family: "Playfair Display", "Helvetica Neue", Helvetica, Arial, cursive;
+  font-style: italic;
 }
 .navbar-default .navbar-brand:hover,
 .navbar-default .navbar-brand:focus,
